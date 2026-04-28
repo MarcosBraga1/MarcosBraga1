@@ -1,11 +1,11 @@
-# 👋 Olá, eu sou o Marcos Braga
+# Olá, eu sou o Marcos Braga
 
 💻 Desenvolvedor Full Stack com foco em Node.js, React e Django  
 🚀 Interesse em arquitetura de software, APIs escaláveis e integração com IA  
 
 ---
 
-## 🔧 Tecnologias
+## Tecnologias
 
 - **Backend:** Node.js, NestJS, Express, Django  
 - **Frontend:** React, Next.js  
@@ -14,7 +14,7 @@
 
 ---
 
-## 🚀 Projetos em destaque
+## Projetos em destaque
 
 ### 🧠 Intelligent Document Chat System (OCR + AI)
 Sistema fullstack para leitura inteligente de documentos com OCR e IA.
@@ -28,14 +28,20 @@ Sistema fullstack para leitura inteligente de documentos com OCR e IA.
 
 ---
 
-### 📦 Sistema de Gestão de Estoque
-Sistema desktop para controle de inventário e movimentações.
+### 📊 Smart Attendance System
 
-- Electron + SQLite  
-- Rastreamento de entradas e saídas  
+Sistema distribuído de controle de presença utilizando QR Code.
+
+- Arquitetura baseada em microserviços  
+- Comunicação assíncrona via mensageria (RabbitMQ/Kafka)  
+- Uso de Redis para cache e melhoria de performance  
+- Projetado para lidar com alta concorrência  
+- Implementação de mecanismos antifraude com validação de geolocalização e rede  
+
+🔗 [Repositório](https://github.com/MarcosBraga1/smart-attendance-system)
 
 ---
 
-## 📫 Contato
+## Contato
 
 - LinkedIn: https://www.linkedin.com/in/braga-marcos/
