@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Marcos Braga
 
-<!--
-**MarcosBraga1/MarcosBraga1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor Full Stack com foco em Node.js, React e Django  
+🚀 Interesse em arquitetura de software, APIs escaláveis e integração com IA  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tecnologias
+
+- **Backend:** Node.js, NestJS, Express, Django  
+- **Frontend:** React, Next.js  
+- **Banco de Dados:** PostgreSQL, MySQL, MongoDB  
+- **Outros:** Docker, Prisma, REST APIs  
+
+---
+
+## 🚀 Projetos em destaque
+
+### 🧠 Intelligent Document Chat System (OCR + AI)
+Sistema fullstack para leitura inteligente de documentos com OCR e IA.
+
+- Pipeline: upload → OCR → IA → persistência → chat contextual  
+- Backend: NestJS  
+- Frontend: Next.js  
+- Banco: PostgreSQL  
+
+🔗 [Repositório](https://github.com/MarcosBraga1/ocr_ia_document-reader)
+
+---
+
+### 📦 Sistema de Gestão de Estoque
+Sistema desktop para controle de inventário e movimentações.
+
+- Electron + SQLite  
+- Rastreamento de entradas e saídas  
+
+---
+
+## 📫 Contato
+
+- LinkedIn: https://www.linkedin.com/in/braga-marcos/
