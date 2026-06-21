@@ -1,47 +1,50 @@
-# Olá, eu sou o Marcos Braga
+<h1 align="center">Marcos Braga</h1>
 
-💻 Desenvolvedor Full Stack com foco em Node.js, React e Django  
-🚀 Interesse em arquitetura de software, APIs escaláveis e integração com IA  
+<p align="center">Backend Engineer building APIs and scalable systems with Python.</p>
 
----
+<p align="center">Python · Django · FastAPI · PostgreSQL · Docker · Redis · Kafka</p>
 
-## Tecnologias
+## About
 
-- **Backend:** Node.js, NestJS, Express, Django  
-- **Frontend:** React, Next.js  
-- **Banco de Dados:** PostgreSQL, MySQL, MongoDB  
-- **Outros:** Docker, Prisma, REST APIs  
+Backend Engineer focused on Python and API development.
+Building scalable applications with Django and FastAPI.
 
----
+Interested in software architecture, microservices and distributed systems.
 
-## Projetos em destaque
+Open to remote opportunities.
 
-### 🧠 Intelligent Document Chat System (OCR + AI)
-Sistema fullstack para leitura inteligente de documentos com OCR e IA.
+## Tech Stack
 
-- Pipeline: upload → OCR → IA → persistência → chat contextual  
-- Backend: NestJS  
-- Frontend: Next.js  
-- Banco: PostgreSQL  
+- Python
+- Django
+- FastAPI
+- PostgreSQL
+- Redis
+- Kafka
+- Docker
+- Linux
 
-🔗 [Repositório](https://github.com/MarcosBraga1/ocr_ia_document-reader)
+## Featured Projects
 
----
+### Local RAG Assistant
 
-### 📊 Smart Attendance System
+Privacy-focused AI assistant with local LLM inference and document-grounded responses.
 
-Sistema distribuído de controle de presença utilizando QR Code.
+*Python · Django · PostgreSQL · Ollama*
 
-- Arquitetura baseada em microserviços  
-- Comunicação assíncrona via mensageria (RabbitMQ/Kafka)  
-- Uso de Redis para cache e melhoria de performance  
-- Projetado para lidar com alta concorrência  
-- Implementação de mecanismos antifraude com validação de geolocalização e rede  
+### Intelligent Document Processing Platform
 
-🔗 [Repositório](https://github.com/MarcosBraga1/smart-attendance-system)
+Backend platform for document ingestion and analysis, combining OCR and LLM capabilities to automate information extraction and retrieval.
 
----
+*NestJS · PostgreSQL · Prisma · Tesseract.js · Gemini*
 
-## Contato
+### Academic Management API
 
-- LinkedIn: https://www.linkedin.com/in/braga-marcos/
+REST API for managing students, classes and attendance, featuring asynchronous communication and caching mechanisms.
+
+*Python · Django REST Framework · Redis · Kafka · PostgreSQL · Docker*
+
+## Contact
+
+- **LinkedIn:** linkedin.com/in/braga-marcos/
+- **Email:** sbraga.marcos@gmail.com
